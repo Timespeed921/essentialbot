@@ -1,0 +1,17 @@
+{
+  "name": "essentialbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "essentialbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "mineflayer": "^2.24.0",
+    "mineflayer-navigate": "0.0.10",
+    "mineflayer-tps": "^1.0.1"
+  }
+}
